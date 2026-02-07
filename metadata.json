@@ -1,0 +1,7 @@
+{
+  "name": "GraceFlow ERP - Church Management System",
+  "description": "A comprehensive Church ERP with role-based access, financial tracking, member management, and automated SMS/Email notifications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
